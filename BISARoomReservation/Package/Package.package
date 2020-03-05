@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2b866df2-f62d-45b6-a59f-20f215486d8a" solutionId="2b866df2-f62d-45b6-a59f-20f215486d8a" resetWebServer="false" sharePointProductVersion="15.0" name="BISARoomReservation" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6a6f9044-7167-45e6-b1b1-014a1fbecb20" />
+    <featureReference itemId="b260c19c-d80e-44ef-b731-ca6111d9e2bb" />
+  </features>
+</package>

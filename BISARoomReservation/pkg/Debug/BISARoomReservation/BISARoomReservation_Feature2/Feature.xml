@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="12d12c31-4957-4ae8-bb20-352dcdf456fd" Scope="Site" Title="BISARoomReservation Feature2">
+  <ElementManifests>
+    <ElementManifest Location="RoomsList\Elements.xml" />
+    <ElementFile Location="RoomsList\RoomsList.webpart" />
+  </ElementManifests>
+</Feature>

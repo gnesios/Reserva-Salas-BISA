@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Habilita las características para el 'Sistema de Reserva de Salas'." Id="e8f129aa-b194-4898-a33e-7a2cd75f226f" Scope="Web" Title="BISA Reserva de Salas">
+  <ElementManifests>
+    <ElementManifest Location="ERCustomList\Elements.xml" />
+    <ElementManifest Location="ERCalendar\Elements.xml" />
+  </ElementManifests>
+</Feature>

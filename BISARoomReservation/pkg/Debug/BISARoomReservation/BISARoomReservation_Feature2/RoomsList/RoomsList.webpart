@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BISARoomReservation.RoomsList.RoomsList, BISARoomReservation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f1f50f817c97a7ff" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Presentador Salas</property>
+        <property name="Description" type="string">Presentador de salas para reservas.</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

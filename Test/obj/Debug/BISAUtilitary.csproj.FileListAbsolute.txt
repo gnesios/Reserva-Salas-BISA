@@ -1,0 +1,5 @@
+d:\visual studio 2013\Projects\BISARoomReservation\Test\bin\Debug\BISAUtilitary.exe.config
+d:\visual studio 2013\Projects\BISARoomReservation\Test\bin\Debug\BISAUtilitary.exe
+d:\visual studio 2013\Projects\BISARoomReservation\Test\bin\Debug\BISAUtilitary.pdb
+d:\visual studio 2013\Projects\BISARoomReservation\Test\obj\Debug\BISAUtilitary.exe
+d:\visual studio 2013\Projects\BISARoomReservation\Test\obj\Debug\BISAUtilitary.pdb

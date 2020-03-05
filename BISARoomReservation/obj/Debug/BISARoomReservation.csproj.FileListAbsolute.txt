@@ -1,0 +1,4 @@
+d:\visual studio 2013\Projects\BISARoomReservation\BISARoomReservation\bin\Debug\BISARoomReservation.dll
+d:\visual studio 2013\Projects\BISARoomReservation\BISARoomReservation\bin\Debug\BISARoomReservation.pdb
+d:\visual studio 2013\Projects\BISARoomReservation\BISARoomReservation\obj\Debug\BISARoomReservation.dll
+d:\visual studio 2013\Projects\BISARoomReservation\BISARoomReservation\obj\Debug\BISARoomReservation.pdb

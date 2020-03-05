@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="100">
+      <Receiver>
+        <Name>ERCustomListItemUpdating</Name>
+        <Type>ItemUpdating</Type>
+        <Assembly>BISARoomReservation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f1f50f817c97a7ff</Assembly>
+        <Class>BISARoomReservation.ERCustomList.ERCustomList</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>ERCustomListItemAdded</Name>
+        <Type>ItemAdded</Type>
+        <Assembly>BISARoomReservation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f1f50f817c97a7ff</Assembly>
+        <Class>BISARoomReservation.ERCustomList.ERCustomList</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+  <Receiver>
+<Name>ERCustomListItemDeleting</Name>
+<Type>ItemDeleting</Type>
+<Assembly>BISARoomReservation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f1f50f817c97a7ff</Assembly>
+<Class>BISARoomReservation.ERCustomList.ERCustomList</Class>
+<SequenceNumber>10000</SequenceNumber>
+</Receiver>
+</Receivers>
+</Elements>
